@@ -1,6 +1,31 @@
 {
   "proyectos": [
     [
+      "basalto",
+      {
+        "titulo": "basalto de cadenas rotas",
+        "textosES": [
+          "Este proyecto consiste en la creación de grabados botánicos y textos poéticos siguiendo la técnica de la ilustración al aguafuerte de los tratados botánicos del s.XVIII. Tanto las imágenes como los textos parten de las ideas, demostradas a lo largo de la historia y reconocidas finalmente en los estudios más recientes, de que las plantas son seres sensibles, se comunican e intercambian información y además tienen la capacidad de resolver los problemas que se les presentan.",
+          "Nuestro proceso recupera la metodología de observación de autoras como Maria Sibilla Merian (1647-1717), Anne Pratt (1806–1893), Marianne North (1830–1890), entre otros. La mayoría de piezas se desarrolla mediante la técnica del aguafuerte sobre cobre, posteriormente iluminado a la acuarela, partiendo del ejercicio de comprensión de los seres vegetales como organismos sensibles. A través de las imágenes exploramos las posibilidades narrativas y poéticas que surgen cuando tratamos de imaginar la existencia desde percepciones diferentes a la temporalidad y el desplazamiento humanos.",
+          "El grabado ha sido uno de los principales vehículos de estudio y representación de la botánica antes del invento de la fotografía. En este proyecto se pretende recuperar esta función, pero incorporando aspectos de nuestro lenguaje visual. El Teatre de les Plantes considera, además, el arte y la escritura como vehículo de expresión e imaginación sobre las revolucionarias ideas mediante las cuales diversos autores, desde Platón a Demócrito, pasando por Linneo y Darwin, Fechner y Bose (por citar a los más conocidos), y desembocando en los actuales neurobiólogos del mundo vegetal, Monica Gagliano o Stefano Mancuso, han expresado su convicción de que las plantas están dotadas de habilidades y sensibilidades mucho más refinadas de las que comúnmente se observan.",
+          "Exposició seleccionada a la convocatòria de Projectes de ciutat 2023\nAmb el suport de Sorea i del Departament de Cultura de la Generalitat de Catalunya"
+        ],
+        "textosEN": [
+          "This project consists of creating botanical engravings and poetic texts following the etching illustration technique of 18th-century botanical treatises. Both the images and texts draw from ideas demonstrated throughout history and finally recognized in the most recent studies: that plants are sentient beings that communicate, exchange information, and have the capacity to solve the problems they encounter.",
+          "Our process recovers the observational methodology of authors such as Maria Sibilla Merian (1647–1717), Anne Pratt (1806–1893), Marianne North (1830–1890), among others. Most pieces are developed using the etching technique on copper, subsequently illuminated with watercolor, starting from the exercise of understanding plant beings as sentient organisms. Through the images, we explore the narrative and poetic possibilities that arise when we try to imagine existence from perceptions different from human temporality and movement.",
+          "Engraving has been one of the main vehicles for the study and representation of botany before the invention of photography. This project aims to recover this function while incorporating aspects of our visual language. El Teatre de les Plantes also considers art and writing as vehicles of expression and imagination about the revolutionary ideas through which various authors, from Plato to Democritus, through Linnaeus and Darwin, Fechner and Bose (to name the most well-known), and arriving at current plant neurobiologists such as Monica Gagliano and Stefano Mancuso, have expressed their conviction that plants are endowed with abilities and sensitivities far more refined than those commonly observed.",
+          "Exhibition selected for the Projectes de ciutat 2023 call\nWith the support of Sorea and the Department of Culture of the Generalitat de Catalunya"
+        ],
+        "textosCAT": [
+          "Aquest projecte consisteix en la creació de gravats botànics i textos poètics seguint la tècnica de la il·lustració a l'aiguafort dels tractats botànics del s.XVIII. Tant les imatges com els textos parteixen de les idees, demostrades al llarg de la història i reconegudes finalment en els estudis més recents, que les plantes són éssers sensibles, es comuniquen i intercanvien informació i a més tenen la capacitat de resoldre els problemes que se'ls presenten.",
+          "El nostre procés recupera la metodologia d'observació d'autores com Maria Sibilla Merian (1647-1717), Anne Pratt (1806–1893), Marianne North (1830–1890), entre altres. La majoria de peces es desenvolupa mitjançant la tècnica de l'aiguafort sobre coure, posteriorment il·luminat a l'aquarel·la, partint de l'exercici de comprensió dels éssers vegetals com a organismes sensibles. A través de les imatges explorem les possibilitats narratives i poètiques que sorgeixen quan tractem d'imaginar l'existència des de percepcions diferents de la temporalitat i el desplaçament humans.",
+          "El gravat ha estat un dels principals vehicles d'estudi i representació de la botànica abans de l'invent de la fotografia. En aquest projecte es pretén recuperar aquesta funció, però incorporant aspectes del nostre llenguatge visual. El Teatre de les Plantes considera, a més, l'art i l'escriptura com a vehicle d'expressió i imaginació sobre les idees revolucionàries mitjançant les quals diversos autors, des de Plató a Demòcrit, passant per Linné i Darwin, Fechner i Bose (per citar els més coneguts), i desembocant en els actuals neurobiòlegs del món vegetal, Monica Gagliano o Stefano Mancuso, han expressat la seva convicció que les plantes estan dotades d'habilitats i sensibilitats molt més refinades de les que comunament s'observen.",
+          "Exposició seleccionada a la convocatòria de Projectes de ciutat 2023\nAmb el suport de Sorea i del Departament de Cultura de la Generalitat de Catalunya"
+        ],
+        "imgCount": 18
+      }
+    ],
+    [
       "teatroPlantas",
       {
         "titulo": "el teatre de les plantes",
