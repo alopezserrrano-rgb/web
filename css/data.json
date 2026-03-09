@@ -46,31 +46,6 @@
       }
     ],
     [
-      "porSiglos",
-      {
-        "titulo": "por siglos en eros",
-        "textosES": [
-          "Por siglos en Eros es una obra de teatro escrita enteramente en verso que reinterpreta la mitología griega desde una perspectiva feminista y de crítica cultural. La pieza narra la historia de amor entre la diosa Atenea y una artista mortal, un vínculo que se prolonga a lo largo de los siglos bajo la inquieta observación de cuatro figuras alegóricas —Muerte, Eros, Porvenir y Locura— personificaciones de las pasiones que estructuran la experiencia humana.",
-          "El proyecto invierte los relatos clásicos en los que el deseo masculino se legitima como fuerza divina que persigue y somete a figuras femeninas. Frente a esa tradición, la obra reivindica el amor entre mujeres como gesto afectivo y político, proponiéndolo como forma de resistencia ante la economía heterosexual del mito. Esta inversión se encarna en un personaje sin nombre —la artista— cuya identidad abierta desestabiliza la noción de autoría fija y permite resignificar a Atenea como heroína trágica, atravesada por el conflicto entre norma y deseo.",
-          "Al combinar comedia y lirismo, la performance desactiva la solemnidad del mito y lo expone como construcción cultural susceptible de ser intervenida. El arte aparece aquí como dispositivo de producción simbólica: no ilustra un relato heredado, sino que genera sentido y propone un mundo posible moldeado por las emociones, el cuidado y el deseo compartido.",
-          "Dramaturgia lírica: Ana López\nDirección de arte: Jesús Rua y Monica Kopatschek\nDirección escénica: Josep Casanovas\nActrices: Marta Marin e Irene Espinilla, Adrián Pino\nAudiovisual: Mari Papadopoulos y Sean Sborlino"
-        ],
-        "textosEN": [
-          "Por Siglos en Eros is a theatrical work written entirely in verse that reinterprets Greek mythology from a feminist and cultural critique perspective. The piece narrates the love story between the goddess Athena and a mortal artist, a bond that extends across centuries under the restless observation of four allegorical figures—Death, Eros, Destiny, and Madness—personifications of the passions that structure human experience.",
-          "The project inverts the classical narratives in which masculine desire is legitimized as a divine force that pursues and subjugates female figures. Against this tradition, the work reclaims love between women as both an affective and political gesture, proposing it as a form of resistance against the heterosexual economy of myth. This inversion is embodied in a nameless character—the artist—whose open identity destabilizes the notion of fixed authorship and allows Athena to be resignified as a tragic heroine, torn between norm and desire.",
-          "By combining comedy and lyricism, the performance dismantles the solemnity of myth and exposes it as a cultural construction susceptible to intervention. Art appears here as a device for symbolic production: it does not illustrate an inherited narrative but generates meaning and proposes a possible world shaped by emotions, care, and shared desire.",
-          "Lyrical dramaturgy: Ana López\nArt direction: Jesús Rua and Monica Kopatschek\nStage direction: Josep Casanovas\nActresses: Marta Marin and Irene Espinilla, Adrián Pino\nAudiovisual: Mari Papadopoulos and Sean Sborlino"
-        ],
-        "textosCAT": [
-          "Por Siglos en Eros és una obra de teatre escrita enterament en vers que reinterpreta la mitologia grega des d'una perspectiva feminista i de crítica cultural. La peça narra la història d'amor entre la deessa Atenea i una artista mortal, un vincle que es perllonga al llarg dels segles sota l'inquieta observació de quatre figures al·legòriques —Mort, Eros, Pervindre i Follia— personificacions de les passions que estructuren l'experiència humana.",
-          "El projecte inverteix els relats clàssics en què el desig masculí es legitima com a força divina que persegueix i sotmet figures femenines. Davant d'aquesta tradició, l'obra reivindica l'amor entre dones com a gest afectiu i polític, proposant-lo com a forma de resistència davant l'economia heterosexual del mite. Aquesta inversió s'encarna en un personatge sense nom —l'artista— la identitat oberta del qual desestabilitza la noció d'autoria fixa i permet resignificar Atenea com a heroïna tràgica, travessada pel conflicte entre norma i desig.",
-          "En combinar comèdia i lirisme, la performance desactiva la solemnitat del mite i l'exposa com a construcció cultural susceptible de ser intervinguda. L'art apareix aquí com a dispositiu de producció simbòlica: no il·lustra un relat heretat, sinó que genera sentit i proposa un món possible modelat per les emocions, la cura i el desig compartit.",
-          "Dramatúrgia lírica: Ana López\nDirecció d'art: Jesús Rua i Monica Kopatschek\nDirecció escènica: Josep Casanovas\nActrius: Marta Marin i Irene Espinilla, Adrián Pino\nAudiovisual: Mari Papadopoulos i Sean Sborlino"
-        ],
-        "imgCount": 21
-      }
-    ],
-    [
       "bacanales",
       {
         "titulo": "se acabaron las bacanales",
@@ -95,7 +70,32 @@
         "imgCount": 24
       }
     ]
-  ],
+  ], 
+    [
+      "porSiglos",
+      {
+        "titulo": "por siglos en eros",
+        "textosES": [
+          "Por siglos en Eros es una obra de teatro escrita enteramente en verso que reinterpreta la mitología griega desde una perspectiva feminista y de crítica cultural. La pieza narra la historia de amor entre la diosa Atenea y una artista mortal, un vínculo que se prolonga a lo largo de los siglos bajo la inquieta observación de cuatro figuras alegóricas —Muerte, Eros, Porvenir y Locura— personificaciones de las pasiones que estructuran la experiencia humana.",
+          "El proyecto invierte los relatos clásicos en los que el deseo masculino se legitima como fuerza divina que persigue y somete a figuras femeninas. Frente a esa tradición, la obra reivindica el amor entre mujeres como gesto afectivo y político, proponiéndolo como forma de resistencia ante la economía heterosexual del mito. Esta inversión se encarna en un personaje sin nombre —la artista— cuya identidad abierta desestabiliza la noción de autoría fija y permite resignificar a Atenea como heroína trágica, atravesada por el conflicto entre norma y deseo.",
+          "Al combinar comedia y lirismo, la performance desactiva la solemnidad del mito y lo expone como construcción cultural susceptible de ser intervenida. El arte aparece aquí como dispositivo de producción simbólica: no ilustra un relato heredado, sino que genera sentido y propone un mundo posible moldeado por las emociones, el cuidado y el deseo compartido.",
+          "Dramaturgia lírica: Ana López\nDirección de arte: Jesús Rua y Monica Kopatschek\nDirección escénica: Josep Casanovas\nActrices: Marta Marin e Irene Espinilla, Adrián Pino\nAudiovisual: Mari Papadopoulos y Sean Sborlino"
+        ],
+        "textosEN": [
+          "Por Siglos en Eros is a theatrical work written entirely in verse that reinterprets Greek mythology from a feminist and cultural critique perspective. The piece narrates the love story between the goddess Athena and a mortal artist, a bond that extends across centuries under the restless observation of four allegorical figures—Death, Eros, Destiny, and Madness—personifications of the passions that structure human experience.",
+          "The project inverts the classical narratives in which masculine desire is legitimized as a divine force that pursues and subjugates female figures. Against this tradition, the work reclaims love between women as both an affective and political gesture, proposing it as a form of resistance against the heterosexual economy of myth. This inversion is embodied in a nameless character—the artist—whose open identity destabilizes the notion of fixed authorship and allows Athena to be resignified as a tragic heroine, torn between norm and desire.",
+          "By combining comedy and lyricism, the performance dismantles the solemnity of myth and exposes it as a cultural construction susceptible to intervention. Art appears here as a device for symbolic production: it does not illustrate an inherited narrative but generates meaning and proposes a possible world shaped by emotions, care, and shared desire.",
+          "Lyrical dramaturgy: Ana López\nArt direction: Jesús Rua and Monica Kopatschek\nStage direction: Josep Casanovas\nActresses: Marta Marin and Irene Espinilla, Adrián Pino\nAudiovisual: Mari Papadopoulos and Sean Sborlino"
+        ],
+        "textosCAT": [
+          "Por Siglos en Eros és una obra de teatre escrita enterament en vers que reinterpreta la mitologia grega des d'una perspectiva feminista i de crítica cultural. La peça narra la història d'amor entre la deessa Atenea i una artista mortal, un vincle que es perllonga al llarg dels segles sota l'inquieta observació de quatre figures al·legòriques —Mort, Eros, Pervindre i Follia— personificacions de les passions que estructuren l'experiència humana.",
+          "El projecte inverteix els relats clàssics en què el desig masculí es legitima com a força divina que persegueix i sotmet figures femenines. Davant d'aquesta tradició, l'obra reivindica l'amor entre dones com a gest afectiu i polític, proposant-lo com a forma de resistència davant l'economia heterosexual del mite. Aquesta inversió s'encarna en un personatge sense nom —l'artista— la identitat oberta del qual desestabilitza la noció d'autoria fixa i permet resignificar Atenea com a heroïna tràgica, travessada pel conflicte entre norma i desig.",
+          "En combinar comèdia i lirisme, la performance desactiva la solemnitat del mite i l'exposa com a construcció cultural susceptible de ser intervinguda. L'art apareix aquí com a dispositiu de producció simbòlica: no il·lustra un relat heretat, sinó que genera sentit i proposa un món possible modelat per les emocions, la cura i el desig compartit.",
+          "Dramatúrgia lírica: Ana López\nDirecció d'art: Jesús Rua i Monica Kopatschek\nDirecció escènica: Josep Casanovas\nActrius: Marta Marin i Irene Espinilla, Adrián Pino\nAudiovisual: Mari Papadopoulos i Sean Sborlino"
+        ],
+        "imgCount": 21
+      }
+    ],
   "about": [
     {
       "titulo": "Ana López",
