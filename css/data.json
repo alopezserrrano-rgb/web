@@ -2,22 +2,38 @@
   "resaltado": "#FFFF00",
   "proyectos": [
     [
-      "basalto",
+      "megalosigns",
       {
-        "titulo": "basalto de cadenas rotas",
+        "titulo": "megalosigns",
         "textosES": [
-          "Este proyecto toma como punto de partida la premisa del relato \"Un signo en el espacio\" de Italo Calvino. Para llevarlo a cabo, busco en mi memoria un punto geográfico en el cual las emociones que afloran cuando lo recuerdo son tan intensas, y tan vívidas, que puedo pintarlas de forma sostenida durante meses. Mi lenguaje pictórico se expande en los nuevos materiales y asimila aquello desarrollado en otros formatos de carácter más narrativo, como las libretas o pequeñas acuarelas.",
+          
           "Este proyecto en gran formato se halla en fase de constante de experimentación material. Utilizo soportes de gran formato como maderas y lienzos, y en muchos casos modelo la superficie que pintaré (mezclas de yeso, latex, telas, materiales triturados, barnices). Utilizo diferentes procesos para pintar la imagen, tomando como punto de partida procesos y paletas clásicos para adaptarlos a las escenas que persigo."
         ],
         "textosEN": [
-          "This project takes as its point of departure the premise of the short story A Sign in Space by Italo Calvino. To carry it out, I search my memory for a geographical point where the emotions that arise when I recall it are so intense and so vivid that I can paint them continuously for months. My pictorial language expands through these new materials and assimilates what has been developed in other, more narrative formats such as notebooks or small watercolours.",
+         
           "This large-format project is in a phase of constant material experimentation. I use large supports such as wood panels and canvases, and in many cases I model the surface I will paint on (mixtures of plaster, latex, fabrics, crushed materials, varnishes). I use different processes to paint the image, taking classical processes and palettes as a starting point and adapting them to the scenes I pursue."
         ],
         "textosCAT": [
-          "Aquest projecte pren com a punt de partida la premissa del relat Un signe en l’espai d’Italo Calvino. Per dur-lo a terme, busco en la meva memòria un punt geogràfic en què les emocions que afloren quan el recordo són tan intenses i tan vívides que puc pintar-les de manera sostinguda durant mesos. El meu llenguatge pictòric s’expandeix en els nous materials i assimila allò desenvolupat en altres formats de caràcter més narratiu, com les llibretes o les petites aquarel·les.",
+          
           "Aquest projecte de gran format es troba en una fase constant d’experimentació material. Utilitzo suports de gran format com fustes i llenços, i en molts casos modelo la superfície que pintaré (barreges de guix, làtex, teles, materials triturats, vernissos). Utilitzo diferents processos per pintar la imatge, prenent com a punt de partida processos i paletes clàssiques per adaptar-les a les escenes que persegueixo."
         ],
         "imgCount": 6
+      }
+    ],
+    [
+      "sobreagua",
+      {
+        "titulo": "sobre el agua",
+        "textosES": [
+          "Sobre el agua desarrolla un mundo de mitología personal a través de símbolos, escenarios desolados y personajes que los habitan. Encontramos máscaras, cabezas de lobo, cabellos de medusa… Una mezcla de mundos terroríficos y dulces, llenos de contrastes y emociones desbordantes. Son un medio para transmitir sus experiencias vividas y encontrar historias paralelas en respuesta al aislamiento, la precariedad y las condiciones climáticas extremas."
+        ],
+        "textosEN": [
+          "Over the water unfolds a world of personal mythology through symbols, desolate landscapes, and the characters that inhabit them. We encounter masks, wolf heads, Medusa-like hair… A mixture of terrifying and gentle worlds filled with contrasts and overflowing emotions. They become a means of conveying lived experiences and of finding parallel stories in response to isolation, precarity, and extreme climatic conditions."
+        ],
+        "textosCAT": [
+          "Sobre el agua desenvolupa un món de mitologia personal a través de símbols, escenaris desoladors i personatges que l'habiten. Hi trobem màscares, caps de llop, cabells de medusa... Una barreja de móns terrorífics i dolços plens de contrastos i emocions desbordants. Són un mitjà per transmetre les seves experiències viscudes i trobar històries paral·leles en resposta a l'aïllament, la precarietat i les condicions climàtiques extremes."
+        ],
+        "imgCount": 2
       }
     ],
     [
