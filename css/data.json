@@ -1,6 +1,23 @@
 {
   "resaltado": "#FFFF00",
   "proyectos": [
+    
+    [
+      "sobreagua",
+      {
+        "titulo": "sobre el agua",
+        "textosES": [
+          "Sobre el agua desarrolla un mundo de mitología personal a través de símbolos, escenarios desolados y personajes que los habitan. Encontramos máscaras, cabezas de lobo, cabellos de medusa… Una mezcla de mundos terroríficos y dulces, llenos de contrastes y emociones desbordantes. Son un medio para transmitir sus experiencias vividas y encontrar historias paralelas en respuesta al aislamiento, la precariedad y las condiciones climáticas extremas."
+        ],
+        "textosEN": [
+          "Over the water unfolds a world of personal mythology through symbols, desolate landscapes, and the characters that inhabit them. We encounter masks, wolf heads, Medusa-like hair… A mixture of terrifying and gentle worlds filled with contrasts and overflowing emotions. They become a means of conveying lived experiences and of finding parallel stories in response to isolation, precarity, and extreme climatic conditions."
+        ],
+        "textosCAT": [
+          "Sobre el agua desenvolupa un món de mitologia personal a través de símbols, escenaris desoladors i personatges que l'habiten. Hi trobem màscares, caps de llop, cabells de medusa... Una barreja de móns terrorífics i dolços plens de contrastos i emocions desbordants. Són un mitjà per transmetre les seves experiències viscudes i trobar històries paral·leles en resposta a l'aïllament, la precarietat i les condicions climàtiques extremes."
+        ],
+        "imgCount": 21
+      }
+    ],
     [
       "megalosignes",
       {
@@ -18,22 +35,6 @@
           "Aquest projecte de gran format es troba en una fase constant d’experimentació material. Utilitzo suports de gran format com fustes i llenços, i en molts casos modelo la superfície que pintaré (barreges de guix, làtex, teles, materials triturats, vernissos). Utilitzo diferents processos per pintar la imatge, prenent com a punt de partida processos i paletes clàssiques per adaptar-les a les escenes que persegueixo."
         ],
         "imgCount": 6
-      }
-    ],
-    [
-      "sobreagua",
-      {
-        "titulo": "sobre el agua",
-        "textosES": [
-          "Sobre el agua desarrolla un mundo de mitología personal a través de símbolos, escenarios desolados y personajes que los habitan. Encontramos máscaras, cabezas de lobo, cabellos de medusa… Una mezcla de mundos terroríficos y dulces, llenos de contrastes y emociones desbordantes. Son un medio para transmitir sus experiencias vividas y encontrar historias paralelas en respuesta al aislamiento, la precariedad y las condiciones climáticas extremas."
-        ],
-        "textosEN": [
-          "Over the water unfolds a world of personal mythology through symbols, desolate landscapes, and the characters that inhabit them. We encounter masks, wolf heads, Medusa-like hair… A mixture of terrifying and gentle worlds filled with contrasts and overflowing emotions. They become a means of conveying lived experiences and of finding parallel stories in response to isolation, precarity, and extreme climatic conditions."
-        ],
-        "textosCAT": [
-          "Sobre el agua desenvolupa un món de mitologia personal a través de símbols, escenaris desoladors i personatges que l'habiten. Hi trobem màscares, caps de llop, cabells de medusa... Una barreja de móns terrorífics i dolços plens de contrastos i emocions desbordants. Són un mitjà per transmetre les seves experiències viscudes i trobar històries paral·leles en resposta a l'aïllament, la precarietat i les condicions climàtiques extremes."
-        ],
-        "imgCount": 21
       }
     ],
     [
