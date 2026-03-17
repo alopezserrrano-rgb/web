@@ -63,6 +63,22 @@
       }
     ],
     [
+      "restis",
+      {
+        "titulo": "restis arqueològiquis",
+        "textosES": [
+          "prueba"
+        ],
+        "textosEN": [
+          "trying"
+        ],
+        "textosCAT": [
+          "prova"
+        ],
+        "imgCount": 9
+      }
+    ],
+    [
       "bacanales",
       {
         "titulo": "se acabaron las bacanales",
