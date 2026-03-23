@@ -81,6 +81,23 @@
       }
     ],
     [
+      "grabadoras",
+      {
+        "titulo": "grabadoras lunáticas",
+        "textosES": [
+          "¿Qué hay más perdurable que la roca? ¿Qué restos nos quedan de los primeros antepasados, sino huesos, piedras y las primeras cerámicas? Restis arquòlogiquis presenta el yacimiento arqueológico de una fábrica completamente controlada por pulpos. De este singular enclave solo sabemos que los propios pulpos habían abierto la fábrica a visitas en horarios restringidos, pero ni siquiera las guías humanas sabían muy bien qué fabricaban realmente los pulpos en aquellas instalaciones ruinosas e inundadas. Restis arquòlogiquis juega con la idea de convivencias entre culturas híbridas, hallazgos de fósiles sorprendentes, y tiende puentes hacia civilizaciones posibles muy adelante o muy atrás en el tiempo."
+        ],
+        "textosEN": [
+          "Restis arquòlogiquis",
+          "What is more enduring than rock? What remains do we have from our earliest ancestors other than bones, stones, and the first ceramics? Restis arquòlogiquis presents the archaeological site of a factory entirely controlled by octopuses. About this singular place, we only know that the octopuses themselves had opened the factory to visitors during restricted hours, yet not even the human guides truly knew what the octopuses were actually producing in those ruined and flooded facilities. Restis arquòlogiquis plays with the idea of coexistence between hybrid cultures, the discovery of surprising fossils, and builds bridges toward possible civilizations far in the future or deep in the past."
+        ],
+        "textosCAT": [
+          "Què hi ha més perdurable que la roca? Quines restes ens queden dels primers avantpassats, sinó ossos, pedres i les primeres ceràmiques? Restis arqueològiques exposa el jaciment arqueològic d’una fàbrica completament controlada per pops. D’aquest singular indret només en sabem que els mateixos pops havien obert la fàbrica a visites en horaris restringits, però ni tan sols les guies humanes sabien ben bé què fabricaven realment els pops en aquelles instal·lacions ruïnoses i inundades. Restis arqueològiques juga amb la idea de convivències entre cultures híbrides, troballes de fòssils sorprenents, i tendeix ponts cap a civilitzacions possibles molt endavant o molt enrere en el temps."
+        ],
+        "imgCount": 9
+      }
+    ],
+    [
       "bacanales",
       {
         "titulo": "se acabaron las bacanales",
